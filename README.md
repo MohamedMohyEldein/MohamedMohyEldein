@@ -19,26 +19,26 @@
 I'm **Mohamed Mohyeldin**, a Computer Science student at **Fayoum University** and a passionate **Junior Backend Developer** specializing in **.NET technologies**. I focus on building **clean, scalable, and maintainable backend systems** following industry best practices.
 
 <div align="right">
-  <img alt="Coding" width="350" src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/3o7TKtdU8c4Y3OGFuo/giphy.gif">
 </div>
 
 ### 🎯 What I Do Best
-- 🏗️ **Backend Development** - Building production-ready ASP.NET Core applications  
-- 🧩 **Clean Architecture** - Implementing SOLID principles & design patterns  
-- 📊 **Database Design** - Optimizing queries & designing efficient schemas  
-- 🔌 **RESTful APIs** - Scalable and well-documented web services  
-- 🧪 **Quality Code** - Testable, maintainable, and reliable solutions  
+- 🏗️ **Backend Development** - Production-ready ASP.NET Core applications  
+- 🧩 **Clean Architecture** - SOLID principles & design patterns  
+- 📊 **Database Design** - Optimized queries & schemas  
+- 🔌 **RESTful APIs** - Scalable & well-documented web services  
+- 🧪 **Quality Code** - Testable, maintainable, reliable  
 
 ### 🌱 Currently Learning
 - Advanced ASP.NET Core features & middleware  
-- Microservices architecture  
+- Microservices & distributed systems  
 - Cloud Platforms (Azure/AWS)  
 - Docker & containerization  
 - Message queues (RabbitMQ)  
 - Redis caching strategies  
 
 ### 💼 Career Goals
-Actively seeking **internship opportunities** to contribute to real-world systems, collaborate with experts, and grow as a backend developer.
+Seeking **internships** to contribute to real-world systems, collaborate with experts, and grow as a backend developer.
 
 ---
 
@@ -54,7 +54,6 @@ Actively seeking **internship opportunities** to contribute to real-world system
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-239120?style=flat-square)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data_Structures-58A6FF?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithms-58A6FF?style=flat-square)
 
 ### 🏗️ Backend Frameworks & Tools
@@ -88,17 +87,17 @@ Actively seeking **internship opportunities** to contribute to real-world system
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="80"><br>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80"><br>
 **🏛️ Architecture & Patterns**  
 Clean Architecture • CQRS • DDD • Repository Pattern • Unit of Work • DI
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/3orieWrxvH8eV28VvS/giphy.gif" width="80"><br>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"><br>
 **💡 Best Practices**  
 SOLID Principles • Design Patterns • DTOs • Async/Await • Exception Handling • Testable Code
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="80"><br>
+<img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="80"><br>
 **🔧 Development Skills**  
 RESTful APIs • JWT & Identity • LINQ Queries • OOP • Data Structures • Algorithm Design
 </td>
@@ -112,14 +111,14 @@ RESTful APIs • JWT & Identity • LINQ Queries • OOP • Data Structures •
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=dark&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedMohyEldein&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedMohyEldein&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -127,7 +126,7 @@ RESTful APIs • JWT & Identity • LINQ Queries • OOP • Data Structures •
 ## 🎓 Education
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/3o7TKtdU8c4Y3OGFuo/giphy.gif" width="80">
 <br><br>
 **Bachelor of Computer Science** 🎓  
 *Fayoum University - Faculty of Computers & AI*  
@@ -142,21 +141,19 @@ OOP • Database Systems • Data Structures & Algorithms • Software Engineeri
 ## 🌱 Learning Roadmap
 
 <div align="center">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="80">
 </div>
 
 **🚀 Current Focus Areas:**  
-Advanced ASP.NET Core • Microservices • Docker & Containers • Cloud Platforms (Azure/AWS) • RabbitMQ • Redis • CI/CD Pipelines
+Advanced ASP.NET Core • Microservices • Docker & Containers • Cloud Platforms • RabbitMQ • Redis • CI/CD Pipelines
 
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/3orieQ9ScVdNCWml7i/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="350">
 <br><br>
 
 ## 📬 Let's Connect!
-
-### 💼 Open to Internship Opportunities
 
 <a href="mailto:mm5993@fayoum.edu.eg"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/></a>
 <a href="https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>
