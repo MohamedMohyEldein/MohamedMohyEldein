@@ -1,21 +1,25 @@
-# Hi, I'm Mohamed Mohyeldin 👋  
-### Junior Backend Developer | Computer Science Student | .NET Enthusiast
+<!-- Calm coder animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-I’m a **Computer Science student** and **backend-focused developer** who enjoys building **scalable, maintainable, and production-ready systems** using **C# and .NET**.
-
-I care deeply about **software architecture**, **code quality**, and **writing code that lasts**.
+<h1 align="center">Hi, I'm Mohamed Mohyeldin 👋</h1>
+<h3 align="center">Computer Science Student • Junior Backend Developer (.NET)</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BSc in Computer Science — Fayoum University (2022–2026)
-- 💻 Backend developer specialized in **ASP.NET Core**
-- 🧠 Strong advocate of **Clean Architecture & SOLID principles**
-- 🧪 Big believer in **testing business logic**
-- 📚 Constantly learning and improving
+I’m a **Computer Science student** and **backend-focused developer** with a strong interest in building  
+**clean, scalable, and maintainable systems** using **C# and ASP.NET Core**.
+
+I enjoy working on:
+- backend architecture
+- business logic
+- data access layers
+- code quality and testing
+
+I believe good software is built with **clarity, discipline, and continuous improvement**.
 
 ---
 
@@ -29,6 +33,7 @@ I care deeply about **software architecture**, **code quality**, and **writing c
 
 ### Architecture & Design
 - Clean Architecture
+- SOLID Principles
 - CQRS (MediatR)
 - Dependency Injection
 - Repository & Unit of Work
@@ -44,7 +49,7 @@ I care deeply about **software architecture**, **code quality**, and **writing c
 - Postman
 
 ### Fundamentals & Extras
-- OOP & SOLID Principles
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - LINQ
 - Python
@@ -52,33 +57,35 @@ I care deeply about **software architecture**, **code quality**, and **writing c
 
 ---
 
-## 💡 How I Think About Software
+## 💡 How I Approach Software Development
 
-- Architecture matters as much as features
-- Code should be easy to test and change
-- Abstractions exist to protect the domain
-- Simple > clever
-- If it’s not tested, it’s not done 😉
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=tokyonight" />
-</p>
+- Architecture is as important as features
+- Code should be readable before it is clever
+- Business logic must be testable
+- Abstractions should protect the domain
+- If it’s not tested, it’s not finished
 
 ---
 
-## 🌍 Connect With Me
+## 📚 Education
+
+🎓 **Bachelor of Computer Science**  
+Fayoum University (2022 – 2026)
+
+Relevant coursework:
+- Object-Oriented Programming
+- Database Systems
+- Algorithms
+
+---
+
+## 🌍 Let’s Connect
 
 - 📧 Email: **mm5993@fayoum.edu.eg**
-- 💼 LinkedIn: [Mohamed Mohyeldin Amr Hassan](https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3)
-- 🧑‍💻 GitHub: [github.com/MohamedMohyEldein](https://github.com/MohamedMohyEldein)
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3
+- 🧑‍💻 GitHub:  
+  https://github.com/MohamedMohyEldein
 
 ---
 
