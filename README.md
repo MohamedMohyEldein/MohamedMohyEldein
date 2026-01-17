@@ -123,8 +123,6 @@ Building scalable, testable backend systems with clean, maintainable code that s
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MohamedMohyEldein&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
-
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedMohyEldein&custom_title=Mohamed's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area_color=0D1117&area=true&hide_border=true&theme=react-dark)
 
