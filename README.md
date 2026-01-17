@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Mohyeldin;Junior+Backend+Developer;ASP.NET+Core+Specialist;Building+Scalable+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&width=500&lines=Hi+%F0%9F%91%8B;I'm+Mohamed+Mohyeldein;Junior+Backend+Developer;ASP.NET+Core+Specialist;Building+Scalable+APIs" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
@@ -124,7 +125,6 @@ Building scalable, testable backend systems with clean, maintainable code that s
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohamedMohyEldein&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedMohyEldein&custom_title=Mohamed's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area_color=0D1117&area=true&hide_border=true&theme=react-dark)
 
@@ -163,14 +163,13 @@ graph LR
     F --> G[📋 Performance Optimization]
 ```
 
-### Currently Learning
+
+### Future Goals
 - 🐳 **Docker & Containerization** - Building containerized .NET applications
 - 🏗️ **Microservices Architecture** - Distributed systems design
 - ☁️ **Azure Cloud Services** - Cloud-native development
 - 📨 **RabbitMQ/MassTransit** - Message-driven architecture
 - 🔍 **Advanced EF Core** - Performance tuning and optimization
-
-### Future Goals
 - ⚡ gRPC & High-Performance APIs
 - 🔐 Advanced Security Patterns
 - 📊 Distributed Caching (Redis)
