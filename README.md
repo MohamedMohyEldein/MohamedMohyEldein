@@ -14,25 +14,21 @@
 <tr>
 <td width="60%">
 
-```csharp
-public class Developer
-{
-    public string Name { get; } = "Mohamed Mohyeldin Amr Hassan";
-    public string Role { get; } = "Junior Backend Developer (.NET)";
-    public string Location { get; } = "Giza, Egypt";
-    public List<string> Specialties { get; } = new()
-    {
-        "Clean Architecture",
-        "RESTful API Design",
-        "Entity Framework Core",
-        "CQRS Pattern",
-        "Unit Testing"
-    };
-    
-    public string Mission { get; } = 
-        "Building scalable, testable backend systems";
-}
-```
+### 👨‍💻 Mohamed Mohyeldin Amr Hassan
+
+**Junior Backend Developer specializing in .NET**
+
+📍 **Based in:** Giza, Egypt
+
+🎯 **Core Expertise:**
+- Clean Architecture & SOLID Principles
+- RESTful API Design & Development
+- Entity Framework Core & Database Design
+- CQRS Pattern with MediatR
+- Unit Testing & TDD
+
+💡 **Mission:**  
+Building scalable, testable backend systems with clean, maintainable code that solve real-world problems.
 
 </td>
 <td width="40%">
