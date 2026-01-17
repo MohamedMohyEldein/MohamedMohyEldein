@@ -1,123 +1,169 @@
 <div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Mohyeldin&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Backend%20Developer%20%7C%20.NET%20Core%20Specialist&descAlignY=55&descSize=20" alt="Waving Header" />
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+Scalable+%26+Maintainable+Backend+Systems;Clean+Architecture+%E2%80%A2+CQRS+%E2%80%A2+DDD;Production-Ready+ASP.NET+Core+APIs;Writing+Clean%2C+Testable+Code" alt="Typing SVG" />
-  </a>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Mohamed%20Mohyeldin&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20.NET%20Specialist&descAlignY=55&descSize=20&descColor=8b949e"/>
+
+<br>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+Advocate;CQRS+%26+Domain-Driven+Design;Building+Scalable+Backend+Systems" alt="Typing SVG"/>
+
+<br><br>
+
+<!-- Coding GIF -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+</div>
+
+<br>
+
+## About Me
+
+**Junior Backend Developer** passionate about building **clean, scalable, and maintainable** systems using **.NET Core**. Currently studying Computer Science at **Fayoum University** (2022-2026).
+
+I specialize in **backend architecture**, **RESTful APIs**, and **database design** with a strong focus on **Clean Architecture**, **SOLID principles**, and **testable code**.
+
+**Currently seeking internship opportunities** to contribute to production systems and grow alongside experienced teams.
+
+<br>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+</div>
+
+<br>
+
+## Tech Stack
+
+**Languages**
+```
+C#  •  SQL  •  HTML  •  CSS
+```
+
+**Backend & Frameworks**
+```
+.NET Core  •  ASP.NET Core  •  Entity Framework Core  •  MVC  •  Web API
+MediatR  •  Identity  •  JWT  •  LINQ
+```
+
+**Architecture & Patterns**
+```
+Clean Architecture  •  CQRS  •  Domain-Driven Design  •  Repository Pattern
+Unit of Work  •  Dependency Injection  •  SOLID Principles  •  Design Patterns
+```
+
+**Databases**
+```
+SQL Server  •  MySQL
+```
+
+**Tools & Testing**
+```
+Git  •  GitHub  •  Postman  •  xUnit  •  Visual Studio
+```
+
+**Data & Analytics**
+```
+Power BI  •  KNIME  •  N8N
+```
+
+<br>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="600">
+</div>
+
+<br>
+
+## What I'm Learning
+
+- Advanced ASP.NET Core features
+- Microservices architecture
+- Docker & Kubernetes
+- Cloud platforms (Azure/AWS)
+- Message queuing (RabbitMQ)
+- Redis caching
+- CI/CD pipelines
+
+<br>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="600">
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=0d1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&border=0d1117"/>
+</div>
+
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=0d1117"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-animation-gif-download-3645911.gif" width="350" alt="Programmer Animation"/>
-</div>
-
-## 👨‍💻 About Me
-
-Passionate **Junior Backend Developer** (.NET) currently pursuing **B.Sc. in Computer Science** at **Fayoum University**.  
-I specialize in building **scalable, testable, and production-ready** backend systems using **Clean Architecture**, **CQRS**, and modern .NET practices.
-
-<div align="right">
-  <img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" width="280" alt="Developer Coding"/>
-</div>
-
-### 🎯 Core Strengths
-- 🏗️ Clean Architecture & Domain-Driven Design  
-- 🧩 CQRS with MediatR  
-- 🔐 Authentication & Authorization (Identity + JWT)  
-- 🧪 Unit Testing with xUnit  
-- 🔄 Dependency Injection & Repository Pattern  
-- 📊 Optimized SQL & EF Core  
-
-### 🌱 Currently Exploring
-- Microservices & Event-Driven Architecture  
-- Docker & Containerization  
-- Cloud (Azure/AWS)  
-- Redis & RabbitMQ  
-- Advanced Testing & CI/CD  
-
-### 💼 Open to Opportunities
-Looking for **internships** and **collaborations** to work on real-world production systems.
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="600">
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://www.c-sharpcorner.com/article/what-is-clean-architecture/Images/What%20is%20Clean%20Architecture.png" width="500" alt="Clean Architecture Diagram"/>
-  <br><br>
-  <small>Mastering Clean Architecture principles</small>
-</div>
-
-<br>
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=radical&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedMohyEldein&theme=radical&no-frame=true&margin-w=15&margin-h=15" width="48%"/>
-</div>
-
-<br>
-
-## 🎓 Education
+## Education
 
 **Bachelor of Computer Science**  
-Fayoum University | 2022 – 2026  
-Relevant Coursework: OOP, Database Systems, Algorithms & Data Structures, Software Engineering
+Fayoum University - Faculty of Computers & Artificial Intelligence  
+*2022 - 2026*
+
+**Relevant Coursework:** Object-Oriented Programming • Database Systems • Data Structures & Algorithms • Software Engineering
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62868878/221974599-b54c2f2e-d20d-46cf-a7f9-80989baa9775.gif" width="350" alt="Waving Developer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
 
-## 📬 Let's Connect!
+<br><br>
+
+## Connect With Me
 
 <div align="center">
-  <a href="mailto:mm5993@fayoum.edu.eg">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="https://github.com/MohamedMohyEldein">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
-  <a href="tel:+201550417027">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
-  </a>
+
+<a href="mailto:mm5993@fayoum.edu.eg">
+  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MohamedMohyEldein">
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="tel:+201550417027">
+  <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" width="40" height="40"/>
+</a>
+
+<br><br>
+
+**Open to internship opportunities**
+
+<br>
+
+*Made with passion for clean code and endless coffee*
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyb3NxNjVnZTM3dTFqZ3RmMHZ3ZWkxNWRraGJqcTRvdzZkcWQ4NnczMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oaDcc0LTCuIAiGYrzn/source.gif" width="300" alt="Funny Coding Meme"/>
-  <br><br>
-  *Made with 💙 for Clean Code & ☕ Coffee*
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
