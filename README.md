@@ -1,108 +1,122 @@
-🚀 Mohamed Mohyeldein Amr Ahmed – Developer Portfolio
 <div align="center">
-https://img.shields.io/github/followers/yourusername?style=for-the-badge&label=Follow&color=blue
-https://img.shields.io/github/stars/yourusername?style=for-the-badge&label=Stars&color=yellow
-https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=green
-https://img.shields.io/badge/Status-Open%2520to%2520Work-brightgreen?style=for-the-badge
 
-👋 Hi there, I'm Mohamed!
-A passionate developer from Egypt, building the future with code.
+<!-- Header GIF -->
+<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Matrix Digital Rain" width="100%"/>
 
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+<br/><br/>
+<h1>👋 Hi, I'm Mohamed Mohyeldin</h1>
+<h3>Junior Backend Developer | .NET • Clean Architecture Enthusiast</h3>
+
+<!-- Waving GIF -->
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Waving Hello Cool GIF" width="180"/>
+
+<br/>
+
+<!-- Contact badges -->
+<a href="mailto:mm5993@fayoum.edu.eg">
+  <img src="https://img.shields.io/badge/Email-mm5993@fayoum.edu.eg-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="tel:+2015504170">
+  <img src="https://img.shields.io/badge/Phone-+20%2015504170-success?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+</a>
+<a href="https://github.com/MohamedMohyEldein">
+  <img src="https://img.shields.io/badge/GitHub-MohamedMohyEldein-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/Mohamed-Mohyeldin-Amr-Hassan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Mohyeldin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+<img src="https://img.shields.io/badge/Location-Giza,%20Egypt-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+</div>
+
+---
+
+### 🚀 About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Neon Coding Typing" width="320"/>
+</div>
+
+Passionate **Junior Backend Developer** focused on building **scalable**, **clean**, and **production-ready** systems with **.NET**.
+
+I love **Clean Architecture**, **CQRS**, **SOLID principles**, and writing **testable** code that lasts. Currently sharpening my skills to become a strong full-stack/backend engineer who delivers real value.
+
+- 🔭 Currently building enterprise-grade APIs and learning cloud-native patterns  
+- 🌱 Deep diving into **Microservices**, **Docker**, **Azure**, and modern frontend  
+- 🎯 Goal: Contribute to impactful products and grow into a senior role
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![xUnit](https://img.shields.io/badge/xUnit-DC3A00?style=for-the-badge&logo=xunit&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-📖 About Me
-I'm a software developer with a strong interest in building scalable, efficient, and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. I'm constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-🧠 Learning philosophy: Learn → Build → Share
+---
 
-🎯 Currently focused on: Backend development & cloud technologies
+### 💡 Core Strengths
 
-🌱 Always improving: System design, DevOps, and open-source contributions
+- Clean Architecture & Domain-Driven Design  
+- CQRS + MediatR  
+- RESTful API Design & DTOs  
+- Authentication (Identity + JWT)  
+- Unit Testing (xUnit)  
+- SOLID Principles & Design Patterns  
+- Async Programming & Exception Handling  
+- SQL / EF Core / LINQ Mastery
 
-⚡ Fun fact: I can debug code in my sleep (almost!)
+---
 
-🛠️ Technical Skills
+### 📊 GitHub Activity
+
 <div align="center">
-Languages & Frameworks
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-
-Databases & Cloud
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-
-Tools & Platforms
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=dracula&hide_border=true" alt="Streak Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
-📊 GitHub Stats
+
+---
+
+### 🎓 Education
+
+**Bachelor of Computer Science**  
+Fayoum University (2022 – 2026)  
+Relevant Coursework: OOP, Database Systems, Algorithms & Data Structures
+
+---
+
+### 🗺️ Learning Roadmap (2026 & Beyond)
+
+- Master **Azure** / **AWS** + Containerization (**Docker** / **Kubernetes**)  
+- Explore **Microservices** & **Event-Driven Architecture**  
+- Level up frontend (**Blazor** / **React**)  
+- Contribute more to **open-source**  
+- Build real-world scalable systems
+
+---
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff
-
-https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff
-
-</div>
-🧠 Core Competencies
-Backend Development: REST APIs, microservices, authentication, database design
-
-Frontend Development: Responsive design, component-based architecture, state management
-
-DevOps & Deployment: CI/CD, containerization, cloud platforms, monitoring
-
-Problem Solving: Algorithms, data structures, debugging, performance optimization
-
-Collaboration: Git workflows, code reviews, agile methodologies, documentation
-
-🎓 Education
-Bachelor of Computer Science
-University of Egypt
-📅 2020 – 2024
-📝 Relevant coursework: Data Structures, Algorithms, Databases, Software Engineering, Web Development
-
-🗺️ Learning Roadmap
-graph TD
-    A[Current Focus] --> B[Advanced Backend]
-    A --> C[Cloud Certification]
-    A --> D[System Design]
-    
-    B --> E[Microservices]
-    B --> F[Message Queues]
-    
-    C --> G[AWS Solutions Architect]
-    C --> H[Docker & Kubernetes]
-    
-    D --> I[Design Patterns]
-    D --> J[Scalability]
-    
-    E --> K[Build Portfolio Project]
-    H --> K
-    J --> K
-    
-    K --> L[Contribute to Open Source]
-    L --> M[Interview Preparation]
-    M --> N[Land Dream Job]
-📬 Contact Me
-<div align="center">
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-
-https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
-
-Let's build something amazing together! ✨
-
+  <h3>Let's build something awesome together! 🚀</h3>
+  <br/>
+  Reach out → <a href="mailto:mm5993@fayoum.edu.eg">mm5993@fayoum.edu.eg</a>
 </div>
