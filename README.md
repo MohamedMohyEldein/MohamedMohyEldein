@@ -8,8 +8,6 @@
 
 I'm a passionate **Computer Science student** at **Fayoum University** with strong foundations in **backend development**, **Clean Architecture**, and **scalable system design**. With hands-on experience building production-ready ASP.NET Core applications, I focus on writing **clean, testable, and maintainable code**. Currently seeking **internship opportunities** where I can apply my knowledge and grow as a backend developer.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ### About Me:
 
 - 🏫 I'm a `Junior` at Faculty of Computers & Artificial Intelligence at **Fayoum University**.
@@ -19,8 +17,6 @@ I'm a passionate **Computer Science student** at **Fayoum University** with stro
 - 🤓 Always learning new things and following best practices.
 - ❤️ Writing **unit tests** and **scalable APIs**.
 - 🤔 I'm currently open for: `An Internship` or `Backend Developer Role`.
-
-<br clear="both"/>
 
 ---
 
@@ -39,7 +35,7 @@ I'm a passionate **Computer Science student** at **Fayoum University** with stro
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,html,css" />
 </p>
 
 ### Tech Stack
@@ -104,15 +100,7 @@ Power BI  •  KNIME  •  N8N
 
 ---
 
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMohyEldein&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
-</div>
-
----
-
-## 🐍 A Snake Eating My Contributions Graph!
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohamedMohyEldein/MohamedMohyEldein/output/snake.svg" alt="Snake animation"/>
@@ -120,24 +108,20 @@ Power BI  •  KNIME  •  N8N
 
 ---
 
-## Connect With Me 🤝
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:mm5993@fayoum.edu.eg">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/MohamedMohyEldein">
-  <img src="https://img.icons8.com/fluency/48/000000/github.png" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="tel:+201550417027">
-  <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
