@@ -1,99 +1,117 @@
 <div align="center">
-  <img src="https://gimpchat.com/files/4643_WilberMatrixRain.GIF" alt="Matrix Code Rain GIF" width="300"/>
-  <h1>Mohamed Mohyeldin Amr Hassan</h1>
-  <h3>Junior Backend Developer (.NET)</h3>
-  <img src="https://i.pinimg.com/originals/8e/f8/b1/8ef8b118b2bd121bd71a50bbb8ac6a9f.gif" alt="Waving Hello GIF" width="100"/>
+  <img src="https://i.redd.it/otb2sa5dpq581.gif" alt="Matrix Digital Rain" width="100%"/>
+  <br/><br/>
+  <h1>👋 Hi, I'm Mohamed Mohyeldin</h1>
+  <h3>Junior Backend Developer | .NET • Clean Architecture Enthusiast</h3>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Waving Hello Cool GIF" width="180"/>
+  
+  <br/>
+  
+  <a href="mailto:mm5993@fayoum.edu.eg">
+    <img src="https://img.shields.io/badge/Email-mm5993@fayoum.edu.eg-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+2015504170">
+    <img src="https://img.shields.io/badge/Phone-+20%2015504170-success?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://github.com/MohamedMohyEldein">
+    <img src="https://img.shields.io/badge/GitHub-MohamedMohyEldein-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Mohamed-Mohyeldin-Amr-Hassan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Mohyeldin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Location-Giza,%20Egypt-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </div>
 
 ---
 
-## About Me
+### 🚀 About Me
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWV2bTMwNGEyZmZ3Y3hoOTkwMmhxZ3NicDVldTRkcmhybXgyeWdkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/source.gif" alt="Typing Code GIF" width="300"/>
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Neon Coding Typing" width="320"/>
 </div>
 
-I'm a passionate Junior Backend Developer specializing in .NET technologies. With hands-on experience in building scalable and testable ASP.NET Core applications, I focus on clean, maintainable code using principles like Clean Architecture, Entity Framework Core, and RESTful APIs. My career goal is to evolve into a senior full-stack developer, contributing to innovative software solutions that solve real-world problems while continuously learning emerging technologies.
+Passionate **Junior Backend Developer** focused on building **scalable**, **clean**, and **production-ready** systems with **.NET**.
 
-Key experiences include implementing dependency injection, unit testing, and authentication systems to ensure reliable backend systems.
+I love **Clean Architecture**, **CQRS**, **SOLID principles**, and writing **testable** code that lasts. Currently sharpening my skills to become a strong full-stack/backend engineer who delivers real value.
+
+- 🔭 Currently building enterprise-grade APIs and learning cloud-native patterns
+- 🌱 Deep diving into **Microservices**, **Docker**, **Azure**, and modern frontend
+- 🎯 Goal: Contribute to impactful products and grow into a senior role
 
 ---
 
-## Skills
+### 🛠️ Tech Stack
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![xUnit](https://img.shields.io/badge/xunit-%23DC3A00.svg?style=for-the-badge&logo=xunit&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
-These badges highlight my core technical proficiencies. Hover over them for a quick glance (native browser tooltips work on GitHub).
+---
+
+### 💡 Core Strengths
+
+- Clean Architecture & Domain-Driven Design
+- CQRS + MediatR
+- RESTful API Design & DTOs
+- Authentication (Identity + JWT)
+- Unit Testing (xUnit)
+- SOLID Principles & Design Patterns
+- Async Programming & Exception Handling
+- SQL / EF Core / LINQ Mastery
 
 ---
 
-## Core Competencies
-
-- **Clean Architecture & Design Patterns**: Expertise in structuring applications with separation of concerns, SOLID principles, CQRS, and Dependency Injection.
-- **API Development**: Building RESTful APIs using ASP.NET Core Web API, with DTOs, validation, and async operations.
-- **Database Management**: Proficient in SQL Server, MySQL, LINQ, and Entity Framework Core configurations.
-- **Testing & Tools**: Writing unit tests with xUnit, using Git for version control, and tools like Postman for API testing.
-- **Problem Solving**: Strong foundation in data structures, algorithms, OOP, and problem-solving techniques.
-- **Additional Skills**: Familiarity with Identity & JWT for authentication, PowerBI for data visualization, KNIME for data workflows, and N8N for automation.
-
----
-
-## GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohyEldein&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohyEldein&theme=dracula&hide_border=true" alt="Streak Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohyEldein&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
-## Education
+### 🎓 Education
 
-- **Bachelor of Computer Science**  
-  Fayoum University, 2022 – 2026  
-  Relevant Coursework: Object-Oriented Programming, Database Systems, Algorithms.
-
----
-
-## Learning Roadmap
-
-My ongoing learning journey focuses on expanding my expertise to become a versatile developer:
-
-- **Short-term (Next 6 Months)**: Deepen knowledge in cloud services (Azure/AWS), containerization with Docker, and microservices architecture.
-- **Medium-term (6-12 Months)**: Master front-end technologies like React or Angular to transition to full-stack development.
-- **Long-term**: Explore DevOps practices, machine learning basics, and contribute to open-source projects for real-world collaboration.
-- **Career Goals**: Aim to join a dynamic tech company as a backend/full-stack developer, eventually leading teams on scalable enterprise solutions.
+**Bachelor of Computer Science**  
+Fayoum University (2022 – 2026)  
+Relevant Coursework: OOP, Database Systems, Algorithms & Data Structures
 
 ---
 
-## Contact
+### 🗺️ Learning Roadmap (2026 & Beyond)
+
+- Master **Azure** / **AWS** + Containerization (**Docker** / **Kubernetes**)
+- Explore **Microservices** & **Event-Driven Architecture**
+- Level up frontend (**Blazor** / **React**)
+- Contribute more to **open-source**
+- Build real-world scalable systems
+
+---
 
 <div align="center">
-
-![Email](https://img.shields.io/badge/Email-mm5993@fayoum.edu.eg-blue?style=for-the-badge&logo=gmail&logoColor=white)  
-![Phone](https://img.shields.io/badge/Phone-+20%2015504170-green?style=for-the-badge&logo=whatsapp&logoColor=white)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Mohyeldin--Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-MohamedMohyEldein-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Location](https://img.shields.io/badge/Location-Giza,%20Egypt-red?style=for-the-badge&logo=google-maps&logoColor=white)
-
+  <h3>Let's build something awesome together! 🚀</h3>
+  <br/>
+  Reach out → <a href="mailto:mm5993@fayoum.edu.eg">mm5993@fayoum.edu.eg</a>
 </div>
-
-Feel free to reach out for collaborations or opportunities!
