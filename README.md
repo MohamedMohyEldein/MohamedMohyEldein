@@ -15,7 +15,7 @@
 <tr>
 <td width="60%">
 
-### 👨‍💻 Mohamed Mohyeldin Amr Hassan
+### 👨‍💻 Mohamed Mohyeldin Amr Ahmed Hassan
 
 **Junior Backend Developer specializing in .NET**
 
