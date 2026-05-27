@@ -1,130 +1,113 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&width=500&lines=Hi+%F0%9F%91%8B;I'm+Mohamed+Mohyeldein;Junior+Backend+Developer;ASP.NET+Core+Specialist;Building+Scalable+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&width=600&lines=Mohamed+Mohyeldein+Amr+Hassan;Junior+Backend+Developer+(.NET);Clean+Architecture+%7C+CQRS+%7C+DDD;Building+Production-Grade+APIs" alt="Typing SVG" />
 </div>
 
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
-</div>
 
----
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-### 👨‍💻 Mohamed Mohyeldin Amr Ahmed Hassan
-
-**Junior Backend Developer specializing in .NET**
-
-📍 **Based in:** Giza, Egypt
-
-🎯 **Core Expertise:**
-- Clean Architecture & SOLID Principles
-- RESTful API Design & Development
-- Entity Framework Core & Database Design
-- CQRS Pattern with MediatR
-- Unit Testing & TDD
-
-💡 **Mission:**  
-Building scalable, testable backend systems with clean, maintainable code that solve real-world problems.
-
-</td>
-<td width="40%">
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
-</div>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-mm5993%40fayoum.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm5993@fayoum.edu.eg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Mohyeldin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Mohyeldein-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedMohyEldein-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedMohyEldein)
-[![Phone](https://img.shields.io/badge/Phone-%2B20%2015504170-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2015504170)
+[![Email](https://img.shields.io/badge/Email-mm5993%40fayoum.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm5993@fayoum.edu.eg)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
+
+Junior Backend Developer specializing in **.NET / ASP.NET Core**, with real-world experience building production-grade systems from the ground up. Currently a final-year CS student at Fayoum University (graduating June 2026), working on two live projects — a property booking platform and an e-commerce API — with full Clean Architecture, CQRS, DDD, and payment gateway integrations.
+
+- 🏗️ Strong foundation in **Clean Architecture, CQRS, DDD, and SOLID principles**
+- 💳 Hands-on experience with **Paymob payment gateway** — webhooks, refund flows, concurrency-safe transactions
+- 🔐 Built complete **JWT auth systems** — refresh token rotation, RBAC, email verification
+- 🧪 Writes testable code — **xUnit unit & integration tests**, MediatR pipeline behaviors
+- 📍 Based in Giza, Egypt — available for on-site or remote opportunities
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core Technologies
+**Languages**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frameworks & Libraries**
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Backend & Databases
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00ADD8?style=for-the-badge&logo=architecture&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-4A90E2?style=for-the-badge&logo=architecture&logoColor=white)
-
-### Testing & Tools
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Architecture & Patterns**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-0D1117?style=for-the-badge&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-0D1117?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_%2B_UoW-0D1117?style=for-the-badge&logoColor=white)
+
+**Databases & Infrastructure**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-darkgreen?style=for-the-badge&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+**Developer Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Additional Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 </div>
 
 ---
 
-## 🎯 Core Competencies
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
+### 🏠 [Sakenni](https://github.com/MohamedMohyEldein) — Property Booking Platform
+> **ASP.NET Core · EF Core · SQL Server · Clean Architecture · CQRS · DDD** `2025 – Present`
 
-```plaintext
-┌─────────────────────────────────────────────────────────────┐
-│  ✨ Backend Development                                     │
-│  • RESTful API Design & Implementation                      │
-│  • Clean Architecture & SOLID Principles                    │
-│  • CQRS with MediatR                                        │
-│  • JWT Authentication & Identity Management                 │
-│                                                              │
-│  🗄️ Database & ORM                                          │
-│  • Entity Framework Core Configurations                     │
-│  • Repository Pattern & Unit of Work                        │
-│  • SQL Optimization & Database Design                       │
-│                                                              │
-│  🧪 Quality Assurance                                       │
-│  • Unit Testing with xUnit (20+ test cases)                │
-│  • Test-Driven Development (TDD)                            │
-│  • Edge Case & Async Testing                                │
-│                                                              │
-│  🏗️ Software Design                                         │
-│  • Dependency Injection & IoC Containers                    │
-│  • DTO Pattern & Service Abstractions                       │
-│  • Design Patterns (Repository, Factory, Strategy)          │
-└─────────────────────────────────────────────────────────────┘
-```
+A full-featured, production-grade property booking platform built with enterprise-level architecture.
+
+| Area | What Was Built |
+|------|---------------|
+| **Architecture** | Clean Architecture across 4+ projects; DDD domain layer with entities, domain events, and Result pattern |
+| **CQRS** | 15+ command/query handlers routed through MediatR; generic `Result<T>` for error-free API responses |
+| **Authentication** | JWT access tokens, refresh token rotation, RBAC, email verification, HTML-templated password reset |
+| **Payments** | Full Paymob integration — webhooks, booking confirmation, `TransactionScope` with Serializable isolation for concurrency-safe refunds |
+| **Modules** | Property management (filtering & pagination), reservation engine, ratings & reviews, user favorites, Cloudinary image uploads |
+| **Infrastructure** | Hangfire background jobs, centralized error handling middleware, Ardalis Specification pattern, MediatR pipeline behaviors |
+
+---
+
+### 🛒 [ShopCore](https://github.com/MohamedMohyEldein) — E-Commerce Web API
+> **ASP.NET Core · EF Core · SQL Server · ASP.NET Identity** `2024`
+
+Enterprise-grade e-commerce API with full separation across Domain, Application, Infrastructure, and Presentation layers.
+
+- CQRS with MediatR; full cart, wishlist, orders, and products modules following DDD principles
+- ASP.NET Identity + JWT authentication; Repository Pattern + Unit of Work with ULID keys
+- Advanced EF Core mappings — owned entities, value conversions, reusable query specifications
+
+---
+
+### 📈 [StockTrader](https://github.com/MohamedMohyEldein) — MVC Stock Tracking App
+> **ASP.NET Core MVC · xUnit · Finnhub API** `2025`
+
+- Clean Architecture MVC app integrating Finnhub real-time stock API via HttpClient Factory
+- **20+ xUnit unit tests** covering business logic, edge cases, and async methods with full service layer coverage
+- Custom validation attributes, async/await throughout, structured exception handling
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedMohyEldein&custom_title=Mohamed's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area_color=0D1117&area=true&hide_border=true&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedMohyEldein&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&hide_border=true&theme=react-dark)
 
 </div>
 
@@ -132,104 +115,33 @@ Building scalable, testable backend systems with clean, maintainable code that s
 
 ## 🎓 Education
 
-<div align="center">
+**Bachelor of Science in Computer Science** — Fayoum University, Egypt `2022 – June 2026`
 
-| 🏛️ Institution | 📚 Degree | 📅 Period |
-|:---:|:---:|:---:|
-| **Fayoum University** | Bachelor of Computer Science | 2022 - 2026 |
-
-**Relevant Coursework:** Object-Oriented Programming • Database Systems • Algorithms • Data Structures
-
-</div>
+*Relevant coursework: Object-Oriented Programming · Database Systems · Data Structures & Algorithms · Software Engineering*
 
 ---
 
-## 🗺️ Learning Roadmap
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+## 🗺️ What I'm Working Towards
 
 ```mermaid
 graph LR
-    A[✅ ASP.NET Core] --> B[🔄 Microservices]
-    A --> C[🔄 Docker & Kubernetes]
-    B --> D[📋 Message Queues]
+    A[✅ ASP.NET Core\nClean Arch · CQRS · DDD] --> B[🔄 Docker &\nContainerization]
+    A --> C[🔄 System Design &\nScalability Patterns]
+    B --> D[📋 CI/CD Pipelines]
     C --> D
-    D --> E[🎯 Cloud Architecture]
-    A --> F[🔄 Advanced EF Core]
-    F --> G[📋 Performance Optimization]
+    D --> E[🎯 Microservices &\nMessage Queues]
+    E --> F[☁️ Azure / Cloud-Native]
 ```
 
-
-### Future Goals
-- 🐳 **Docker & Containerization** - Building containerized .NET applications
-- 🏗️ **Microservices Architecture** - Distributed systems design
-- ☁️ **Azure Cloud Services** - Cloud-native development
-- 📨 **RabbitMQ/MassTransit** - Message-driven architecture
-- 🔍 **Advanced EF Core** - Performance tuning and optimization
-- ⚡ gRPC & High-Performance APIs
-- 🔐 Advanced Security Patterns
-- 📊 Distributed Caching (Redis)
-- 🎯 System Design & Scalability
-
----
-
-## 🏆 Highlights
-
-<div align="center">
-
-```plaintext
-🎯 20+ Unit Tests Written         ⚡ Clean Architecture Expert
-🏗️ CQRS Implementation            🔐 JWT Authentication
-📦 Repository Pattern              🌐 RESTful API Design
-🧪 TDD Practitioner               📊 Database Optimization
-```
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  <br><br>
-  
-  **💼 Open to Backend Developer opportunities and collaborations!**
-  
-  <br>
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"><br>
-        <a href="https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
-        <a href="https://github.com/MohamedMohyEldein">
-          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"><br>
-        <a href="tel:+2015504170">
-          <img src="https://img.shields.io/badge/Call_Me-+20_15504170-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  [![Email Me](https://img.shields.io/badge/📧_Email_Me-mm5993@fayoum.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm5993@fayoum.edu.eg)
-  
-</div>
+Currently exploring: **Docker · CI/CD · Redis · System Design**
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+
+**💼 Open to Junior Backend Developer roles — on-site in Cairo/Giza or remote**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mohyeldin-amr-hassan-4010b92b3/)
+[![Email](https://img.shields.io/badge/Get_In_Touch-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm5993@fayoum.edu.eg)
+
 </div>
